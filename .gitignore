@@ -1,0 +1,14 @@
+# Dataset (too large for GitHub, download it separately)
+dataset2.csv
+*.dat
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Notebooks and editors
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
