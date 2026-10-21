@@ -79,10 +79,5 @@ notebook.ipynb          Full pipeline: EDA, preprocessing, models, analysis
 
 3D rotation augmentation, gravity removal, feeding hand-crafted features into the network, subject-adaptive fine-tuning, and validation on other datasets such as MHEALTH or UCI HAR.
 
-## Author
 
-[Your name], [your college or course], [year]
 
-## Reference
-
-A. Reiss and D. Stricker. Introducing a New Benchmarked Dataset for Activity Monitoring. 16th IEEE International Symposium on Wearable Computers (ISWC), 2012.
